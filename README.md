@@ -1,4 +1,4 @@
-# micro-authentication-starter
+# micro-auth-jwt-template
 
 small starter project for a REST api with Authentication
 
