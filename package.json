@@ -1,0 +1,24 @@
+{
+  "name": "recipehub-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Sattlecker",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "eslint": "^4.18.2",
+    "jsonwebtoken": "^8.2.0",
+    "micro": "^9.1.0",
+    "mongoose": "^5.0.8"
+  },
+  "devDependencies": {
+    "eslint-plugin-prettier": "^2.6.0",
+    "micro-dev": "^2.2.0"
+  }
+}
